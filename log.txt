@@ -1,0 +1,684 @@
+Url:http://192.168.1.170/relhumid.xml
+000D60010E4B0F154200144600144200
+0E0E0000001210C4071542
+0000000417321732
+28
+Outside:13
+Roof:14
+Desired Lounge:23
+Desired Bedroom:23
+Lounge:21
+Bedroom:20
+BedroomH:20
+Url:http://192.168.1.170/relhumid.xml
+Outside:13
+Roof:14
+Desired Lounge:23
+Desired Bedroom:23
+Lounge:21
+Bedroom:20
+BedroomH:20
+Url:http://192.168.1.170/relhumid.xml
+Outside:13
+Roof:14
+Desired Lounge:23
+Desired Bedroom:23
+Lounge:21
+Bedroom:20
+Url:http://192.168.1.170/relhumid.xml
+Outside:13
+Roof:14
+Desired Lounge:23
+Desired Bedroom:23
+Lounge:21
+Bedroom:20
+HOUtside:96
+Url:http://192.168.1.170/relhumid.xml
+Outside:13
+Roof:14
+Desired Lounge:23
+Desired Bedroom:23
+Lounge:21
+Bedroom:20
+Url:http://192.168.1.170/relhumid.xml
+Outside:13
+Roof:14
+Desired Lounge:23
+Desired Bedroom:23
+Lounge:21
+Bedroom:20
+Url:http://192.168.1.170/relhumid.xml
+Outside:13
+Roof:14
+Desired Lounge:23
+Desired Bedroom:23
+Lounge:21
+Bedroom:20
+HOutside:96
+HRoof75
+Url:http://192.168.1.170/relhumid.xml
+Outside:13
+Roof:14
+Desired Lounge:23
+Desired Bedroom:23
+Lounge:21
+Bedroom:20
+HOutside:96
+HRoof75
+HDesiredLounge0
+HDesiredBedRoom0
+Url:http://192.168.1.170/relhumid.xml
+Outside:13
+Roof:14
+Desired Lounge:23
+Desired Bedroom:23
+Lounge:21
+Bedroom:20
+HOutside:96
+HRoof75
+HDesiredLounge50
+HDesiredBedRoom50
+Url:http://192.168.1.170/relhumid.xml
+Outside:13
+Roof:14
+Desired Lounge:23
+Desired Bedroom:23
+Lounge:21
+Bedroom:20
+HOutside:96
+HRoof75
+HDesiredLounge50
+HDesiredBedRoom50
+HLounge:65
+HBedroom:70
+Url:http://192.168.1.170/relhumid.xml
+Outside:13
+Roof:13
+Desired Lounge:23
+Desired Bedroom:23
+Lounge:21
+Bedroom:20
+HOutside:93
+HRoof78
+HDesiredLounge50
+HDesiredBedRoom50
+HLounge:64
+HBedroom:70
+Url:http://192.168.1.170/relhumid.xml
+Outside:13
+Roof:13
+Desired Lounge:23
+Desired Bedroom:23
+Lounge:21
+Bedroom:20
+HOutside:93
+HRoof77
+HDesiredLounge50
+HDesiredBedRoom50
+HLounge:64
+HBedroom:70
+Url:http://192.168.1.170/relhumid.xml
+Outside:13
+Roof:13
+Desired Lounge:23
+Desired Bedroom:23
+Lounge:20
+Bedroom:21
+HOutside:93
+HRoof78
+HDesiredLounge50
+HDesiredBedRoom50
+HLounge:65
+HBedroom:69
+Url:http://192.168.1.170/relhumid.xml
+Outside:13
+Roof:13
+Desired Lounge:23
+Desired Bedroom:23
+Lounge:20
+Bedroom:21
+HOutside:93
+HRoof78
+HDesiredLounge50
+HDesiredBedRoom50
+HLounge:65
+HBedroom:70
+Url:http://192.168.1.170/relhumid.xml
+Outside:13
+Roof:13
+Desired Lounge:23
+Desired Bedroom:23
+Lounge:20
+Bedroom:21
+HOutside:93
+HRoof78
+HDesiredLounge50
+HDesiredBedRoom50
+HLounge:65
+HBedroom:70
+Url:http://192.168.1.170/relhumid.xml
+Outside:13
+Roof:13
+Desired Lounge:23
+Desired Bedroom:23
+Lounge:20
+Bedroom:21
+HOutside:93
+HRoof78
+HDesiredLounge50
+HDesiredBedRoom50
+HLounge:65
+HBedroom:70
+Url:http://192.168.1.170/relhumid.xml
+Outside:12
+Roof:12
+Desired Lounge:23
+Desired Bedroom:23
+Lounge:20
+Bedroom:21
+HOutside:95
+HRoof79
+HDesiredLounge50
+HDesiredBedRoom50
+HLounge:66
+HBedroom:70
+Url:http://192.168.1.170/relhumid.xml
+Outside:11
+Roof:11
+Desired Lounge:23
+Desired Bedroom:23
+Lounge:19
+Bedroom:21
+HOutside:98
+HRoof79
+HDesiredLounge50
+HDesiredBedRoom50
+HLounge:67
+HBedroom:70
+Url:http://192.168.1.170/relhumid.xml
+Outside:11
+Roof:11
+Desired Lounge:23
+Desired Bedroom:23
+Lounge:19
+Bedroom:21
+HOutside:98
+HRoof79
+HDesiredLounge50
+HDesiredBedRoom50
+HLounge:67
+HBedroom:70
+Url:http://192.168.1.170/relhumid.xml
+Outside:11
+Roof:11
+Desired Lounge:23
+Desired Bedroom:23
+Lounge:19
+Bedroom:21
+HOutside:98
+HRoof78
+HDesiredLounge50
+HDesiredBedRoom50
+HLounge:66
+HBedroom:67
+Url:http://192.168.1.170/relhumid.xml
+Outside:11
+Roof:11
+Desired Lounge:23
+Desired Bedroom:23
+Lounge:19
+Bedroom:21
+HOutside:98
+HRoof79
+HDesiredLounge50
+HDesiredBedRoom50
+HLounge:67
+HBedroom:68
+Url:http://192.168.1.170/relhumid.xml
+Outside:14
+Roof:17
+Desired Lounge:23
+Desired Bedroom:23
+Lounge:19
+Bedroom:18
+HOutside:75
+HRoof73
+HDesiredLounge50
+HDesiredBedRoom50
+HLounge:62
+HBedroom:67
+Url:http://192.168.1.170/relhumid.xml
+Outside:16
+Roof:19
+Desired Lounge:23
+Desired Bedroom:23
+Lounge:19
+Bedroom:18
+HOutside:64
+HRoof67
+HDesiredLounge50
+HDesiredBedRoom50
+HLounge:62
+HBedroom:64
+HRelays:
+Url:http://192.168.1.170/relhumid.xml
+Outside:16
+Roof:19
+Desired Lounge:23
+Desired Bedroom:23
+Lounge:19
+Bedroom:18
+HOutside:64
+HRoof67
+HDesiredLounge50
+HDesiredBedRoom50
+HLounge:62
+HBedroom:64
+HRelays:36
+Url:http://192.168.1.170/relhumid.xml
+Outside:0
+Roof:0
+Desired Lounge:0
+Desired Bedroom:0
+Lounge:0
+Bedroom:0
+HOutside:58
+HRoof64
+HDesiredLounge50
+HDesiredBedRoom50
+HLounge:62
+HBedroom:63
+HRelays:36
+HFan:4
+Url:http://192.168.1.170/relhumid.xml
+Outside:16
+Roof:20
+Desired Lounge:23
+Desired Bedroom:23
+Lounge:19
+Bedroom:18
+HOutside:58
+HRoof64
+HDesiredLounge50
+HDesiredBedRoom50
+HLounge:62
+HBedroom:62
+HRelays:36
+HFan:4
+Url:http://192.168.1.170/relhumid.xml
+Url:http://192.168.1.170/relhumid.xml
+Outside:16
+Roof:20
+Desired Lounge:23
+Desired Bedroom:23
+Lounge:19
+Bedroom:18
+HOutside:58
+HRoof63
+HDesiredLounge50
+HDesiredBedRoom50
+HLounge:62
+HBedroom:62
+HRelays:36
+HFan:3
+Url:http://192.168.1.170/relhumid.xml
+Outside:0
+Roof:0
+Desired Lounge:0
+Desired Bedroom:0
+Lounge:0
+Bedroom:0
+HOutside:55
+HRoof60
+HDesiredLounge50
+HDesiredBedRoom50
+HLounge:62
+HBedroom:61
+HRelays:36
+HFan:3
+Url:http://192.168.1.170/relhumid.xml
+Outside:0
+Roof:0
+Desired Lounge:0
+Desired Bedroom:0
+Lounge:0
+Bedroom:0
+HOutside:51
+HRoof58
+HDesiredLounge50
+HDesiredBedRoom50
+HLounge:61
+HBedroom:60
+HRelays:36
+HFan:3
+Url:http://192.168.1.170/relhumid.xml
+Outside:19
+Roof:24
+Desired Lounge:23
+Desired Bedroom:23
+Lounge:19
+Bedroom:19
+HOutside:42
+HRoof50
+HDesiredLounge50
+HDesiredBedRoom50
+HLounge:58
+HBedroom:57
+HRelays:72
+HFan:2
+Url:http://192.168.1.170/relhumid.xml
+Outside:19
+Roof:24
+Desired Lounge:23
+Desired Bedroom:23
+Lounge:19
+Bedroom:19
+HOutside:42
+HRoof49
+HDesiredLounge50
+HDesiredBedRoom50
+HLounge:58
+HBedroom:57
+HRelays:37
+HFan:3
+Url:http://192.168.1.170/relhumid.xml
+Outside:19
+Roof:25
+Desired Lounge:23
+Desired Bedroom:23
+Lounge:19
+Bedroom:19
+HOutside:41
+HRoof49
+HDesiredLounge50
+HDesiredBedRoom50
+HLounge:58
+HBedroom:56
+HRelays:72
+HFan:medium
+Url:http://192.168.1.170/relhumid.xml
+Outside:19
+Roof:24
+Desired Lounge:23
+Desired Bedroom:23
+Lounge:19
+Bedroom:19
+HOutside:40
+HRoof49
+HDesiredLounge50
+HDesiredBedRoom50
+HLounge:59
+HBedroom:56
+HRelays:72
+HFan:medium
+Url:http://192.168.1.170/relhumid.xml
+Outside:19
+Roof:24
+Desired Lounge:23
+Desired Bedroom:23
+Lounge:19
+Bedroom:19
+HOutside:41
+HRoof49
+HDesiredLounge50
+HDesiredBedRoom50
+HLounge:58
+HBedroom:56
+HRelays:37
+HFan:high
+Url:http://192.168.1.170/relhumid.xml
+Outside:20
+Roof:25
+Desired Lounge:23
+Desired Bedroom:23
+Lounge:20
+Bedroom:19
+HOutside:39
+HRoof48
+HDesiredLounge50
+HDesiredBedRoom50
+HLounge:61
+HBedroom:55
+HRelays:72
+HFan:medium
+HAirSource:roof
+Url:http://192.168.1.170/relhumid.xml
+Outside:20
+Roof:25
+Desired Lounge:23
+Desired Bedroom:23
+Lounge:20
+Bedroom:19
+HOutside:39
+HRoof47
+HDesiredLounge50
+HDesiredBedRoom50
+HLounge:61
+HBedroom:55
+HRelays:72
+HFan:medium
+HAirSource:roof
+Url:http://192.168.1.170/relhumid.xml
+Outside:20
+Roof:25
+Desired Lounge:23
+Desired Bedroom:23
+Lounge:20
+Bedroom:19
+HOutside:39
+HRoof48
+HDesiredLounge50
+HDesiredBedRoom50
+HLounge:61
+HBedroom:55
+HRelays:72
+HFan:medium
+HAirSource:roof
+Url:http://192.168.1.170/relhumid.xml
+Outside:20
+Roof:25
+Desired Lounge:23
+Desired Bedroom:23
+Lounge:20
+Bedroom:19
+HOutside:39
+HRoof48
+HDesiredLounge50
+HDesiredBedRoom50
+HLounge:61
+HBedroom:55
+HRelays:5
+HFan:high
+HAirSource:outside
+Url:http://192.168.1.170/relhumid.xml
+Outside:20
+Roof:25
+Desired Lounge:23
+Desired Bedroom:23
+Lounge:20
+Bedroom:19
+HOutside:39
+HRoof48
+HDesiredLounge50
+HDesiredBedRoom50
+HLounge:61
+HBedroom:55
+HRelays:4
+HFan:high
+HAirSource:roof
+Url:http://192.168.1.170/relhumid.xml
+Outside:20
+Roof:25
+Desired Lounge:23
+Desired Bedroom:23
+Lounge:20
+Bedroom:19
+HOutside:39
+HRoof49
+HDesiredLounge50
+HDesiredBedRoom50
+HLounge:61
+HBedroom:55
+HRelays:72
+HFan:medium
+HAirSource:roof
+Url:http://192.168.1.170/relhumid.xml
+Outside:20
+Roof:24
+Desired Lounge:23
+Desired Bedroom:23
+Lounge:20
+Bedroom:19
+HOutside:41
+HRoof51
+HDesiredLounge50
+HDesiredBedRoom50
+HLounge:62
+HBedroom:56
+HRelays:72
+HFan:medium
+HAirSource:roof
+Url:http://192.168.1.170/relhumid.xml
+Outside:20
+Roof:24
+Desired Lounge:23
+Desired Bedroom:23
+Lounge:20
+Bedroom:19
+HOutside:40
+HRoof50
+HDesiredLounge50
+HDesiredBedRoom50
+HLounge:61
+HBedroom:56
+HRelays:72
+HFan:medium
+HAirSource:roof
+Url:http://192.168.1.170/relhumid.xml
+Outside:20
+Roof:24
+Desired Lounge:23
+Desired Bedroom:23
+Lounge:20
+Bedroom:19
+HOutside:40
+HRoof50
+HDesiredLounge50
+HDesiredBedRoom50
+HLounge:62
+HBedroom:56
+HRelays:36
+HFan:high
+HAirSource:roof
+Url:http://192.168.1.170/relhumid.xml
+Outside:19
+Roof:23
+Desired Lounge:23
+Desired Bedroom:23
+Lounge:20
+Bedroom:20
+HOutside:42
+HRoof50
+HDesiredLounge50
+HDesiredBedRoom50
+HLounge:60
+HBedroom:55
+HRelays:36
+HFan:high
+HAirSource:roof
+Url:http://192.168.1.170/relhumid.xml
+Outside:19
+Roof:23
+Desired Lounge:18
+Desired Bedroom:18
+Lounge:21
+Bedroom:20
+HOutside:43
+HRoof52
+HDesiredLounge50
+HDesiredBedRoom50
+HLounge:59
+HBedroom:54
+HRelays:37
+HFan:high
+HAirSource:outside
+Url:http://192.168.1.170/relhumid.xml
+Outside:19
+Roof:23
+Desired Lounge:18
+Desired Bedroom:18
+Lounge:21
+Bedroom:20
+HOutside:43
+HRoof52
+HDesiredLounge50
+HDesiredBedRoom50
+HLounge:59
+HBedroom:54
+HRelays:37
+HFan:high
+HAirSource:outside
+Url:http://192.168.1.170/relhumid.xml
+Outside:19
+Roof:23
+Desired Lounge:22
+Desired Bedroom:22
+Lounge:21
+Bedroom:20
+HOutside:43
+HRoof53
+HDesiredLounge50
+HDesiredBedRoom50
+HLounge:58
+HBedroom:54
+HRelays:72
+HFan:medium
+HAirSource:roof
+Url:http://192.168.1.170/relhumid.xml
+Outside:19
+Roof:23
+Desired Lounge:22
+Desired Bedroom:22
+Lounge:21
+Bedroom:20
+HOutside:41
+HRoof52
+HDesiredLounge50
+HDesiredBedRoom50
+HLounge:58
+HBedroom:54
+HRelays:73
+HFan:medium
+HAirSource:outside
+Url:http://192.168.1.170/relhumid.xml
+Outside:18
+Roof:21
+Desired Lounge:22
+Desired Bedroom:22
+Lounge:21
+Bedroom:20
+HOutside:44
+HRoof55
+HDesiredLounge50
+HDesiredBedRoom50
+HLounge:59
+HBedroom:53
+HRelays:144
+HFan:low
+HAirSource:roof
+Url:http://192.168.1.170/relhumid.xml
+Outside:15
+Roof:17
+Desired Lounge:22
+Desired Bedroom:22
+Lounge:21
+Bedroom:20
+HOutside:54
+HRoof59
+HDesiredLounge50
+HDesiredBedRoom50
+HLounge:67
+HBedroom:56
+HRelays:37
+HFan:high
+HAirSource:outside
